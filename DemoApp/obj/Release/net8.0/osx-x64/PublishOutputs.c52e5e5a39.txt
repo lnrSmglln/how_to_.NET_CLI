@@ -1,0 +1,3 @@
+/Users/lnrsmglln/c#_work/dotNET_CLI/DemoApp/bin/Release/net8.0/osx-x64/publish/DemoApp.pdb
+/Users/lnrsmglln/c#_work/dotNET_CLI/DemoApp/bin/Release/net8.0/osx-x64/publish/DemoLib.pdb
+/Users/lnrsmglln/c#_work/dotNET_CLI/DemoApp/bin/Release/net8.0/osx-x64/publish/DemoApp

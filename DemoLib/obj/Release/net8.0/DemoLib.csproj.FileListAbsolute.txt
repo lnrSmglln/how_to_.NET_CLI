@@ -1,0 +1,12 @@
+/Users/lnrsmglln/c#_work/dotNET_CLI/DemoLib/bin/Release/net8.0/DemoLib.deps.json
+/Users/lnrsmglln/c#_work/dotNET_CLI/DemoLib/bin/Release/net8.0/DemoLib.dll
+/Users/lnrsmglln/c#_work/dotNET_CLI/DemoLib/bin/Release/net8.0/DemoLib.pdb
+/Users/lnrsmglln/c#_work/dotNET_CLI/DemoLib/obj/Release/net8.0/DemoLib.csproj.AssemblyReference.cache
+/Users/lnrsmglln/c#_work/dotNET_CLI/DemoLib/obj/Release/net8.0/DemoLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lnrsmglln/c#_work/dotNET_CLI/DemoLib/obj/Release/net8.0/DemoLib.AssemblyInfoInputs.cache
+/Users/lnrsmglln/c#_work/dotNET_CLI/DemoLib/obj/Release/net8.0/DemoLib.AssemblyInfo.cs
+/Users/lnrsmglln/c#_work/dotNET_CLI/DemoLib/obj/Release/net8.0/DemoLib.csproj.CoreCompileInputs.cache
+/Users/lnrsmglln/c#_work/dotNET_CLI/DemoLib/obj/Release/net8.0/DemoLib.dll
+/Users/lnrsmglln/c#_work/dotNET_CLI/DemoLib/obj/Release/net8.0/refint/DemoLib.dll
+/Users/lnrsmglln/c#_work/dotNET_CLI/DemoLib/obj/Release/net8.0/DemoLib.pdb
+/Users/lnrsmglln/c#_work/dotNET_CLI/DemoLib/obj/Release/net8.0/ref/DemoLib.dll

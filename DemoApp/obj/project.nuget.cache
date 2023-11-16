@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sGk97kt9o8HDtIllFsNJLEjKXG2dcYDh4g4lfYJtqXJG6hWbxDedgnwl1eWKX6pA7en4Paii0Yb7+7PU9CA50A==",
+  "success": true,
+  "projectFilePath": "/Users/lnrsmglln/c#_work/dotNET_CLI/DemoApp/DemoApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/lnrsmglln/.nuget/packages/dapper/2.1.21/dapper.2.1.21.nupkg.sha512",
+    "/Users/lnrsmglln/.nuget/packages/microsoft.net.illink.tasks/8.0.0/microsoft.net.illink.tasks.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
